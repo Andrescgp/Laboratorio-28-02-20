@@ -1,7 +1,7 @@
-# Básico de Javascript
+# Laboratorio uno de Javascript
 
 ## Descripción
-Sintaxxis básica de javascript, con valores, variables, funciones, arreglos, ciclos y condicionales
+Ocho casos de funciones resueltas
 
 ## Hola mundo
 ```javascript
